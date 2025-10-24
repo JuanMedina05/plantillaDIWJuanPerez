@@ -1,0 +1,10 @@
+Documentación cambios plantilla:
+He cambiado la fuente a una que se llama Poppins.
+He cambiado los colores del fondo a unos tonos más rojizos.
+He cambiado los placeholder a unos tonos más rojizos también.
+He cambiado el color de los enlaces al pasar el ratón para que resalten más.
+He hecho que los títulos se vean un poco más grandes.
+He puesto un color más claro para el texto en negrita.
+He ajustado el color del código para que tenga más contraste.
+He añadido un tono más claro a las líneas divisorias (hr).
+He añadido un favicon.
